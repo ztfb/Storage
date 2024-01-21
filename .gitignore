@@ -1,0 +1,11 @@
+# 忽略配置或缓存文件
+.vscode
+.idea
+# 忽略build文件夹
+/http_server/build
+/kv_store/build
+# 忽略test文件夹
+/http_server/test
+/kv_store/test
+# 忽略二进制文件
+/bin
